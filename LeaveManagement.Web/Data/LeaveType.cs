@@ -1,4 +1,6 @@
-﻿namespace LeaveManagement.Web.Data
+﻿#nullable disable
+
+namespace LeaveManagement.Web.Data
 {
     public class LeaveType : BaseEntity
     {

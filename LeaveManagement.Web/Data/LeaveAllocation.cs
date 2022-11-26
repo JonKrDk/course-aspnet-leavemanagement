@@ -1,4 +1,6 @@
-﻿using Microsoft.Data.SqlClient.DataClassification;
+﻿#nullable disable
+
+using Microsoft.Data.SqlClient.DataClassification;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LeaveManagement.Web.Data
